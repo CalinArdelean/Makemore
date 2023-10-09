@@ -3,5 +3,7 @@
 Makemore is a generative language model similar to GPT.  
 Following Andrej Karpathy's YouTube series: https://www.youtube.com/watch?v=kCc8FmEb1nY
 
+Upload names.txt to the Files on each Colab page
+
 Bigram approach: https://colab.research.google.com/drive/10hEffMBqK_1jzdHAh2C5NXMMIq3TKPmJ?usp=sharing  
 Multi-layer perceptron: https://colab.research.google.com/drive/1DVlAuLazo_X-_7_EofmD_mNVbPM0ivdl?usp=sharing
